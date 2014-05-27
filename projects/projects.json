@@ -22,6 +22,24 @@
     ]
   },
   {
+    "name": "Tripomatic",
+    "thumb": "tripomatic/thumb.png",
+    "desc": "Tripomatic is a trip planner app that allows users to easily research things they want to do and create a day-by-day itinerary for their trip.",
+    "url": "http://tripomatic.com",
+    "submitter": "twobits-cz",
+    "submissionDate": "2014-05-27",
+    "tags": [
+      "Production",
+      "Travel",
+      "Trip planner",
+      "Animations", 
+      "Bootstrap", 
+      "Local Storage",
+      "IndexedDB",
+      "No jQuery"
+    ]
+  },
+  {
     "name": "DBFreebies",
     "thumb": "dbfreebies/thumb.png",
     "desc": "A place to download the best freebies design resources from Dribbble and Behance.",
